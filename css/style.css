@@ -11,10 +11,12 @@ h2 {
   color: green;
   font-weight: normal;
   font-style: italic;
+  
 }
 
 .completed {
   font-family: monospace;
+  font-size: 12px;
 }
 
 #tasks .completed {
