@@ -4,14 +4,13 @@ body {
 
 h1 {
   color: blue;
-  font-size: 12px;
+  font-size: 3em;
 }
 
 h2 {
   color: green;
   font-weight: normal;
   font-style: italic;
-  font-size: 12px;
 }
 
 .completed {
